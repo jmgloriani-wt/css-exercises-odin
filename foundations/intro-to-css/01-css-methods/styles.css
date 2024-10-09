@@ -1,0 +1,10 @@
+/* Style sheet for 01-css-methods */
+/* Using this to style the first <div> externally */
+
+div {
+    background-color: red;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    text-align: center;    
+}
